@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78892459508",
+    "project_id": "sheild-91d84",
+    "storage_bucket": "sheild-91d84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78892459508:android:bb0c0cf711a987077945a1",
+        "android_client_info": {
+          "package_name": "com.example.sheild_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8g2S6SvftCeqpRIJEOXYdT-nCZD9hyhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
